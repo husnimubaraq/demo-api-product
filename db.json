@@ -5,7 +5,7 @@
     "image": "https://i.ibb.co/QcwNGLy/7.jpg",
     "body": "405 Cassin Lake",
     "subtitle": "Bothell",
-    "id": 1
+    "post_id": 1
   },
   {
     "createdAt": 1639388971,
@@ -13,7 +13,7 @@
     "image": "https://i.ibb.co/5FKtzNL/6.jpg",
     "body": "0948 Alicia Mountains",
     "subtitle": "Pompano Beach",
-    "id": 2
+    "post_id": 2
   },
   {
     "createdAt": 1639388911,
@@ -21,7 +21,7 @@
     "image": "https://i.ibb.co/dGLRqLD/4.jpg",
     "body": "1906 Wintheiser Pines",
     "subtitle": "Bloomington",
-    "id": 3
+    "post_id": 3
   },
   {
     "createdAt": 1639388851,
@@ -29,7 +29,7 @@
     "image": "https://i.ibb.co/XZNG1ND/2.jpg",
     "body": "313 Beier Shoals",
     "subtitle": "Wheaton",
-    "id": 4
+    "post_id": 4
   },
   {
     "createdAt": 1639388791,
@@ -37,6 +37,6 @@
     "image": "https://i.ibb.co/0Ck2g4p/1.jpg",
     "body": "1084 Franecki Corner",
     "subtitle": "Tuckahoe",
-    "id": 5
+    "post_id": 5
   }
 ]
